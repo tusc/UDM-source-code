@@ -18,3 +18,7 @@ The tar file is too large to publish on github. This is the link as sent to me b
       * sources
       * legal-info.sha256
       * manifest.csv
+
+* UDM_1.10.0-12_gpl_bace2018e9.tgz
+    * Source code for the [UDM/UDM pro] (https://drive.google.com/file/d/1QvF3tlDqMxaGJlWukbRxYhev37esxCsN/view?usp=sharing) provided by [Ubiquiti Networks]
+    * Same layout as 1.9
